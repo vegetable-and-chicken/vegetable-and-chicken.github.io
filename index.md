@@ -21,3 +21,6 @@ I am a well educated person, but I am stupid.
 
 Contact me via drifting bottle in the Arctic Ocean.
 
+## my goal
+
+Hack the world.
