@@ -28,5 +28,4 @@ Hack the world before I kill myself.
 
 
 
-[^1]: Seriously, made with ♥
-<sup>1</sup>
+<sup>Seriously, made with ♥</sup>
