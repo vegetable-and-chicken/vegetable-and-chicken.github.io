@@ -1,4 +1,4 @@
-Welcome to my homepage, the VegChick's homepage
+Welcome to my homepage, the VegChick2's homepage
 
 ## about me
 
