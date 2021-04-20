@@ -3,6 +3,7 @@ Welcome to my homepage
 ## about me
 
 I am a stupid software engineer.
+
 I should have realized.
 
 ## projects
@@ -15,7 +16,7 @@ I work for noone.
 
 ## education
 
-I am a well educated person, but I am stupid.
+I am a well educated carbon-based life, but I am stupid.
 
 ## contacts
 
