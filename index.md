@@ -1,5 +1,5 @@
 Welcome to my homepage, the VegChick2's homepage
-##当潜意识被呈现，命运就被改写了
+## 当潜意识被呈现，命运就被改写了
 ## about me
 
 I am a stupid software engineer.
