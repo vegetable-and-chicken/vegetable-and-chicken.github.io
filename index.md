@@ -27,7 +27,8 @@ Contact me via drifting bottle in the Arctic Ocean.
 Hack the world before I kill myself.
 
 
-
+## miscs
+装弱文化本质是对自己嫉妒心的幽默形式升华，是健康的（？
 
 
 
