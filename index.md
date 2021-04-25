@@ -25,7 +25,7 @@ Contact me via drifting bottle in the Arctic Ocean.
 ## my goal
 
 Hack the world before I kill myself.
-我将抗战命运，直到我生命的尽头
+我将抗争命运，直到我生命的尽头
 
 ## miscs
 
